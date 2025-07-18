@@ -25,4 +25,4 @@ To empower communities with full control and transparency over their shared trea
 
 ## Contract details
 0xff1557FC431b1D3c3A1692F1fb4Ab5F826C077a1![alt text](image.png)
-MADE BY :- Aman likhar
+MADE BY :- Aman likhat
