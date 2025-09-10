@@ -8,7 +8,7 @@ A decentralized platform for managing community funds where members can propose 
 
 To empower communities with full control and transparency over their shared treasury, fostering trust and collaborative decision-making without intermediaries.
 
-## Key Features 
+## Key Features
 
 - ✅ Member onboarding controlled by the owner
 - ✅ Proposal creation for fund allocation
