@@ -2,7 +2,7 @@
    
 ## Project Description    
    
-A decentralized platform for managing community funds where members can propose spending, vote on proposals, and execute approved fund disbursements transparently on-chain. 
+A decentralized platform for managing community funds where members can propose spending, vote on proposals, and execute approved fund disbursements transparently on-chain.  
 
 ## Project Vision
 
